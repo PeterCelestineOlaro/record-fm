@@ -33,7 +33,7 @@ require 'nav.php';
                            
                            
                             <li class="nav-item">
-                                <a class="nav-link" href="contact.html">Contact Us</a>
+                                <a class="nav-link" href="contact.php">Contact Us</a>
                             </li>
                         </ul>
                         <div class="social-container mb-lg-0 mb-3">
