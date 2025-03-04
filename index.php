@@ -1,9 +1,7 @@
 <?php
 require 'nav.php';
 ?>
-    <!-- END HEADER -->
-
-    <!-- MAIN CONTENT -->
+  
     <main>
         <!-- BANNER -->
         <section class="section position-relative"
