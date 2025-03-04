@@ -1,5 +1,5 @@
 ﻿<?php
-require 'ola.php';
+require 'nav.php';
 ?>
 <!-- HEADER -->
 
