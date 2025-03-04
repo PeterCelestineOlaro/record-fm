@@ -46,7 +46,7 @@
                                 <a class="nav-link" href="news.php">News </a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="podcasts.html">Gallery</a>
+                                <a class="nav-link" href="gallery.php">Gallery</a>
                             </li>
                            
                            
