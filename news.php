@@ -1,11 +1,7 @@
 <?php
 require 'nav.php';
 ?>
-<!-- HEADER -->
- 
-    <!-- END HEADER -->
 
-    <!-- MAIN CONTENT -->
     <main>
         <!-- BANNER -->
         <section class="section position-relative" style="background-image: url(image/image-1920x900-1.jpg);">
